@@ -1,0 +1,10 @@
+
+{
+    "name": "Image Processor",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "settings": {},
+    "extensions": [],
+    "postCreateCommand": "echo 'Devcontainer pronto!'"
+}
